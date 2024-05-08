@@ -19,7 +19,7 @@ public class ArticleController {
 
     @GetMapping("health")
     public String healthCheck() {
-        return "fine!";
+        return "fine!asdqwdzcqwe!~@#!@#%$#$^$%&^$%";
     }
 
     @GetMapping("articles/{articleCode}")
